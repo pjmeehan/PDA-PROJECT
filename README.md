@@ -20,12 +20,12 @@ Here are the small projects :
 
 7. Construct a model (algorithm) to create my random data set. This will be done by creating an algorithm by combining all the individual data sets into one 'master' data set.
 
-8.I will then use the describe() function on the real data set vs my random data set and compare the results to see if my random data set is a good match to the real data set.
+8. I will then use the describe() function on the real data set vs my random data set and compare the results to see if my random data set is a good match to the real data set.
 
 9. How are my variables related to each other. Use correlation to determine and document it.
 
 10. Document all the above in a Jupyter notebook.
 
-10. give directions on how to run the code.
+11. give directions on how to run the code.
 
-11. give details of references.
+12. give details of references.
