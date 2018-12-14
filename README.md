@@ -1,6 +1,8 @@
 # FDA-PROJECT
 Fundamentals of Data Analysis Project <br>
 
+## To run the code, just start from the first Jupyter cell and continue to click the RUN button.
+
 There seems to be a lot to this project so I want to try to break it down into many small projects that I will be able to tie together in the end.
 
 Here are the small projects :
