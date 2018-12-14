@@ -1,5 +1,5 @@
 # FDA-PROJECT
-Fundamentals of Data Analysis Project
+Fundamentals of Data Analysis Project <br>
 There seems to be a lot to this project so I want to try to make it into many small projects that I will be able to tie together in the end.
 Here are the small projects :
 1. Choose phenomenon - I want to something that I am intereted in so it will contain my interest throughout the whole project. Initially I'm thinking of my favourite National Hockey League team, the New York Rangers. The Rangers are currently going through a rebuild and I was wondering what does it take for a team to win in the NHL. I would like to see the results of what it takes to win and see if the Rangers are heading in the right direction or might they need something(new player, new offensive strategy, new defensive strategy etc) to help them get there.
